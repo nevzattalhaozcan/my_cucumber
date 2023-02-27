@@ -1,8 +1,8 @@
-package com.cydeo.step_definitions;
+package com.my_project.step_definitions;
 
-import com.cydeo.pages.google.GoogleHomePage;
-import com.cydeo.pages.google.GoogleResultPage;
-import com.cydeo.utils.Driver;
+import com.my_project.pages.google.GoogleHomePage;
+import com.my_project.pages.google.GoogleResultPage;
+import com.my_project.utils.Driver;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;

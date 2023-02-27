@@ -1,4 +1,4 @@
-package com.cydeo.utils;
+package com.my_project.utils;
 
 import java.io.FileInputStream;
 import java.io.IOException;

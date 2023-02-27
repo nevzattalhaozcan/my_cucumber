@@ -1,13 +1,12 @@
-package com.cydeo.step_definitions;
+package com.my_project.step_definitions;
 
-import com.cydeo.pages.sauce_demo.HomePage;
-import com.cydeo.pages.sauce_demo.LoginPage;
-import com.cydeo.utils.Driver;
+import com.my_project.pages.sauce_demo.HomePage;
+import com.my_project.pages.sauce_demo.LoginPage;
+import com.my_project.utils.Driver;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import org.openqa.selenium.WebElement;
 
 import static org.junit.Assert.assertTrue;
 

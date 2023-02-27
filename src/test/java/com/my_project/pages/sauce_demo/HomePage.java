@@ -1,6 +1,6 @@
-package com.cydeo.pages.sauce_demo;
+package com.my_project.pages.sauce_demo;
 
-import com.cydeo.utils.Driver;
+import com.my_project.utils.Driver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
